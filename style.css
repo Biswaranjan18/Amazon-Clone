@@ -526,7 +526,7 @@ footer{
     align-items: center;
 
  }
- .footer.logo{
+ .footer-logo{
     background-image: url("p.png");
     background-size: cover;
     height: 45px;

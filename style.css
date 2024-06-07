@@ -526,30 +526,26 @@ footer{
     align-items: center;
 
  }
- /* .logo{
+ foot.logo{
     background-image: url("p.png");
     background-size: cover;
-    height: 30px;
-    width: 200px;
- } */
+    height: 45px;
+    width: 150px;
+ } 
  .foot-panel4{
     background-color: #0f1111;
     color: #cccccc;
     height: 65px;
-   display: flex;
     justify-content: center;
     align-items: center;
-    display: flex;
  }
  .pages{
     font-size: 0.7rem;
     text-align: center;
-    padding-top: 5px;
-    border: 1px solid red;
+    padding-top: 10px;
  }
  .copyright{
     font-size: 0.7rem;
     text-align: center;
     padding-top: 5px;
-    border: 1px solid red;
  }
